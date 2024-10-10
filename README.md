@@ -1,3 +1,4 @@
+<h1> Онлайн платформа-торговой сети электроники.</h1>
 <h2>Инструкция по развертыванию:</h2>
 <ul>
 <li>git clone https://github.com/tomikil/Electronics.git</li>
